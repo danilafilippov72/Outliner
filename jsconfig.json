@@ -1,0 +1,14 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "chrome"
+        ]
+    },
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
